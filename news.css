@@ -1,0 +1,14 @@
+body{
+  background-image: url(1.png);
+  background-size: cover;
+}
+.heading{
+font-family: 'Ultra', serif;
+margin-left: 2%;
+margin-top: 1%;
+}
+.goTo {
+  background-color: rgb(159, 194, 249);
+  border-radius: 3%;
+  border-style: solid;
+}
